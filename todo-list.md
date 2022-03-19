@@ -1,4 +1,5 @@
-- [ ] 增加git cz
+- [x] 增加git cz
+- [ ] 增加commit lint
 - [ ] 增加change log
 - [ ] eslint + prettier
 - [ ] eslint 检验命令
