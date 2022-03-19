@@ -1,0 +1,5 @@
+- [ ] 增加git cz
+- [ ] 增加change log
+- [ ] eslint + prettier
+- [ ] eslint 检验命令
+- [ ] 增加git提交检验 hskyc

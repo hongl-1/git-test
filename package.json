@@ -1,0 +1,27 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "一个测试git的仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongl-1/git-test.git"
+  },
+  "keywords": [
+    "git",
+    "test"
+  ],
+  "author": "hongl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongl-1/git-test/issues"
+  },
+  "homepage": "https://github.com/hongl-1/git-test#readme",
+  "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0"
+  }
+}
